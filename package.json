@@ -1,0 +1,1 @@
+{"description":"One word, first thought — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-0xkianno-one-word-first-thought-106abaf8-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
